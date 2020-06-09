@@ -1,0 +1,26 @@
+{
+  "name": "el-suggest-cascader",
+  "version": "0.0.1",
+  "description": "suggestions grouped vue component for element-ui cascader",
+  "config": {
+    "libName": "el-suggest-cascader"
+  },
+  "keywords": [
+    "el-suggest-cascader",
+    "element ui",
+    "group",
+    "suggest",
+    "cascader",
+    "vue"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/el-suggest-cascader.umd.js",
+  "module": "dist/el-suggest-cascader.esm.js",
+  "unpkg": "dist/el-suggest-cascader.min.js",
+  "dependencies": {
+    "vue": "^2.6.11",
+    "babel-plugin-component": "^1.1.1",
+    "lodash": "^4.17.15"
+  }
+}
