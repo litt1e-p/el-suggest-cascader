@@ -18,4 +18,4 @@ and import the lib globally or use as vue component, do not forget the css
 
 # screenshots
 
-![](./screenshots/screenshot.png)
+![](https://github.com/litt1e-p/el-suggest-cascader/raw/master/screenshots/screenshot.png)
