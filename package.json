@@ -1,6 +1,6 @@
 {
   "name": "el-suggest-cascader",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "suggestions grouped vue component for element-ui cascader",
   "config": {
     "libName": "el-suggest-cascader"
