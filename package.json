@@ -1,6 +1,6 @@
 {
   "name": "el-suggest-cascader",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "suggestions grouped vue component for element-ui cascader",
   "config": {
     "libName": "el-suggest-cascader"
@@ -21,6 +21,7 @@
   "dependencies": {
     "vue": "^2.6.11",
     "babel-plugin-component": "^1.1.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "core-js": "^3.8.1"
   }
 }
