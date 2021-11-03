@@ -1,13 +1,6 @@
 # el-suggest-cascader
 
-suggestions grouped vue component for element-ui cascader
-
-# requirement
-
-```js
-npm i vue
-npm i element-ui
-```
+suggestions grouped vue2.x component for element-ui cascader
 
 # installation
 
